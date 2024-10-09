@@ -1,7 +1,0 @@
-//arch = zynq; split = false; format = BIN
-the_ROM_image:
-{
-	[bootloader]/home/devuser/workspace/BoardBringup-z1/target/Vitis/platform/zynq_fsbl/build/fsbl.elf
-	/home/devuser/workspace/BoardBringup-z1/target/BuildArtefacts/PinOut.bit
-	/home/devuser/workspace/BoardBringup-z1/target/boot/u-boot.elf
-}
